@@ -15,12 +15,12 @@
 為 n 皇后的其中一組解  
 
 
-展示：
-n = 8
+展示：  
+n = 8  
 ![image](https://github.com/gta45297/resume/blob/main/%E4%BD%BF%E7%94%A8%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95%E8%A7%A3%E5%85%AB%E7%9A%87%E5%90%8E%E5%95%8F%E9%A1%8C/show/8.bmp)
 
-n = 9
+n = 9  
 ![image](https://github.com/gta45297/resume/blob/main/%E4%BD%BF%E7%94%A8%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95%E8%A7%A3%E5%85%AB%E7%9A%87%E5%90%8E%E5%95%8F%E9%A1%8C/show/9.bmp)
 
-n = 10
+n = 10  
 ![image](https://github.com/gta45297/resume/blob/main/%E4%BD%BF%E7%94%A8%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95%E8%A7%A3%E5%85%AB%E7%9A%87%E5%90%8E%E5%95%8F%E9%A1%8C/show/10.bmp)
