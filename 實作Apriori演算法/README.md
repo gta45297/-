@@ -20,3 +20,5 @@
 
 並在視窗中顯示所有分數的加總以及執行時間
 
+展示：  
+![image](https://github.com/gta45297/resume/blob/main/%E5%AF%A6%E4%BD%9CApriori%E6%BC%94%E7%AE%97%E6%B3%95/show/%E8%BC%B8%E5%87%BA%E7%95%AB%E9%9D%A2.jpg)
