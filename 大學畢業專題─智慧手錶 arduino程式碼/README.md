@@ -9,5 +9,5 @@
 2.當手機有來電時，手錶可以發出提醒有來電。
 3.手錶有心跳感應器，當手錶感測不出心跳時，會呼叫手機，並撥出程式中紀錄的電話號碼。
 
-展示：  
+展示：(連結至 youtube)  
 [![](http://img.youtube.com/vi/gya_GN6BKiQ/0.jpg)](http://www.youtube.com/watch?v=gya_GN6BKiQ "")
