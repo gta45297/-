@@ -10,7 +10,7 @@
 
 展示：  
 原圖  
-![image](https://github.com/gta45297/resume/blob/main/%E5%AF%A6%E4%BD%9CK-means%E6%BC%94%E7%AE%97%E6%B3%95/input.bmp)  
+![image](https://github.com/gta45297/resume/blob/main/%E5%AF%A6%E4%BD%9CK-means%E6%BC%94%E7%AE%97%E6%B3%95/show/input.bmp)  
 
 分群各為 1 ~ 10 的輸出動圖：  
 ![image](https://github.com/gta45297/resume/blob/main/%E5%AF%A6%E4%BD%9CK-means%E6%BC%94%E7%AE%97%E6%B3%95/show/outputALL.png)  
